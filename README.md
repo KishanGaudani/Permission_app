@@ -1,16 +1,2 @@
-# permission
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# permission![Screenshot_2023-02-10-16-11-15-250_com google android permissioncontroller](https://user-images.githubusercontent.com/121867877/218078642-307340b9-66b0-4e87-b3b0-1208ff473c21.jpg)
+![Screenshot_2023-02-10-16-11-19-662_com example permission_task](https://user-images.githubusercontent.com/121867877/218078650-ef47b109-547e-4329-98f0-17bcd451614d.jpg)
